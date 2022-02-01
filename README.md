@@ -5,6 +5,6 @@ Easy Windows shutdown timer, coded in python
 
 ## How to use
 
-pip install -r requirements.txt
+pip install PyQt5
 
 Then open the .pyw file
